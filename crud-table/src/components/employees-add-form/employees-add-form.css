@@ -1,0 +1,30 @@
+.app-add-form {
+    margin-top: 30px;
+    padding: 25px;
+    background-color: cadetblue;
+    border-radius: 20px;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .20);
+    color: aliceblue;
+
+    text-align: center;
+}
+
+.add-form {
+    margin-top: 10px;
+    justify-content: space-around;
+}
+
+.add-form input {
+    width: 350px;
+    margin-right: 20px;
+}
+
+.add-form-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.add-btn {
+    width: 150px;
+}
